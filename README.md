@@ -1,0 +1,2 @@
+# QRCODE_VCARD
+
